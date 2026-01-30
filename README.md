@@ -1,3 +1,5 @@
+EDIT -- UPDATED JAN 29 2026.
+
 # @bryiac!
 
 Hi @bryiac! I couldn't find another way to reach you. It looks like you might be the owner the the @inference NPM organization [here](https://www.npmjs.com/org/inference). 
